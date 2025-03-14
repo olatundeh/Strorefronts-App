@@ -42,7 +42,6 @@
     "@tailwindcss/vite": "4.0.0-beta.8",
     "@total-typescript/ts-reset": "^0.4.2",
     "@types/eslint": "^9.6.1",
-    "@types/rc-slider": "^9.3.1",
     "@types/react": "^18.2.22",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^8.21.0",
